@@ -1,16 +1,15 @@
-## Hi there 👋
+<a href="https://foxapp.pl"><img src="foxapp.svg" alt="foxapp — automatyzujemy to, co nudne" width="100%"></a>
 
-<!--
-**FoxAppPL/FoxAppPL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+Robimy aplikacje, rozszerzenia przeglądarki i automatyzacje dla małych i średnich firm.
+Odzyskany czas wraca tam, gdzie jest naprawdę potrzebny.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Płacisz za efekt.** Rozliczamy się za działające rozwiązanie, a nie za godziny.
+- **Twoje dane zostają twoje.** Tam, gdzie to możliwe, nie zbieramy żadnych danych.
+- **Bierzemy tylko to, co dowieziemy.** Jeśli nie damy rady, mówimy wprost: nie.
+- **Zostajemy po wdrożeniu.** Poprawki, rozbudowa i kolejne pomysły.
+
+<br>
+
+**[foxapp.pl](https://foxapp.pl)**
